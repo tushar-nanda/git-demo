@@ -1,4 +1,12 @@
 1st text added
 
 and new text
+<<<<<<< HEAD
 k
+=======
+
+asd
+
+added some more text
+>>>>>>> nanda
+dsa
