@@ -1,3 +1,7 @@
 i added 1st line before stashing
 
+<<<<<<< Updated upstream
 this is the text my boss wants to enter in it.
+=======
+now i added another line
+>>>>>>> Stashed changes
